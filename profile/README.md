@@ -13,4 +13,4 @@ We contribute to maintaing small projects and tools like:
 
 ### Need Help?
 
-See how you can contribute by reading our [`CONTRIBUTING`](https://github.com/Dog-Face-Development/.github/blob/main/CONTRIBUTING.md) doc, and make sure you're contributions follow our [`CODE_OF_CONDUCT`](https://github.com/Dog-Face-Development/.github/blob/main/CODE_OF_CONDUCT.md). Thnaks for taking the time to contribute! Happy open sourcing!
+See how you can contribute by reading our [`CONTRIBUTING`](https://github.com/Dog-Face-Development/.github/blob/main/CONTRIBUTING.md) doc, and make sure you're contributions follow our [`CODE_OF_CONDUCT`](https://github.com/Dog-Face-Development/.github/blob/main/CODE_OF_CONDUCT.md). Thanks for taking the time to contribute! Happy open sourcing!
