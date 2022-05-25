@@ -1,6 +1,6 @@
 # .github
 
-All the community health files that should be automatically included as defaults in each of the [Dog Face Development Co. repositories](https://github.com/Dog-Face-Development?tab=repositories). See the folder structure below:
+All the community health files that should be automatically included as defaults in each of the [Dog Face Development Co. repositories](https://github.com/orgs/Dog-Face-Development/repositories). See the folder structure below:
 
 ```text
 ├── ISSUE_TEMPLATE
