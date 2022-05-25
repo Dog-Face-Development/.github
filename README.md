@@ -1,11 +1,17 @@
 # .github
-Community health files!
 
-FUNDING.yml	A FUNDING file displays a sponsor button in your repository to increase the visibility of funding options for your open source project. For more information, see "Displaying a sponsor button in your repository."
+All the community health files that should be automatically included as defaults in each of the [Dog Face Development Co. repositories](https://github.com/Dog-Face-Development?tab=repositories). See the folder structure below:
 
-Issue and pull request templates and config.yml	Issue and pull request templates customize and standardize the information you'd like contributors to include when they open issues and pull requests in your repository. For more information, see "About issue and pull request templates."
+```text
+├── ISSUE_TEMPLATE
+|   ├── bug-report.md
+|   ├── feature-request.md
+|   ├── question.md
+├── CODE_OF_CONDUCT.md
+├── CONTRIBUTING.md
+├── FUNDING.yml
+├── PULL_REQUEST_TEMPLATE.md
+└── SECURITY.md
+```
 
-SECURITY.md	A SECURITY file gives instructions for how to report a security vulnerability in your project. For more inform
-ation, see "Adding a security policy to your repository."
-
-SUPPORT.md	A SUPPORT file lets people know about ways to get help with your project. For more information, see "Adding support resources to your project."
+Feel free to download the latest updates to these templates, make them your own, and add them to your repositories!
