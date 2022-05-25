@@ -4,7 +4,7 @@ We have been building open source programs, websites and other projects on Githu
 
 ### Contributing to our projects!
 
-We contribute to maintaing small projects and tools like:
+We contribute to maintaing small, powerful, and helpful projects and tools like:
 
 - [PyWorkout](https://github.com/Dog-Face-Development/PyWorkout) - A minimal CLI to keep you inspired during your workout! Easily used and customized, with support for multiple workout plans, different muscle groups and video workouts.
 - [PyAvatar](https://github.com/Dog-Face-Development/PyAvatar) - Easily display all of your creative avatars to keep them consistent across websites.
