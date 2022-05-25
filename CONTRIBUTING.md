@@ -1,16 +1,16 @@
-# Contributing to a Dog Face Development Co. Project
+# Contributing to a Dog Face Development Co. project
 
 🎉 Thanks for taking the time to contribute! 🎉
 
-The following is a set of guidelines for contributing to any Dog Face Development Co. project on GitHub. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
+The following is a set of guidelines for contributing to this project on GitHub. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by the [Code of Conduct](https://github.com/Dog-Face-Development/.github/blob/main/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to our [Discord]().
+This project and everyone participating in it is governed by the [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to our [Discord]().
 
 ## New Contributor Guide
 
-To get an overview of any project, read the `README.md`. Here are some resources to help you get started with open source contributions:
+To get an overview of the project, read the [README](README.md). Here are some resources to help you get started with open source contributions:
 
 - [Finding ways to contribute to open source on GitHub](https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github).
 - [Set up Git](https://docs.github.com/en/get-started/quickstart/set-up-git).
@@ -24,7 +24,7 @@ Please contribute using [GitHub Flow](https://guides.github.com/introduction/flo
 ### Did you find a bug?
 
 - **Ensure the bug was not already reported** by searching on GitHub under Issues.
-- If you're unable to find an open issue addressing the problem, open a new one. Be sure to include a **title and clear description**, as much relevant information as possible, and a **code sample** or an **executable test case** demonstrating the expected behavior that is not occurring.
+- If you're unable to find an open issue addressing the problem, open a new one! Be sure to include a **title and clear description**, as much relevant information as possible, and a **code sample** or an **executable test case** demonstrating the expected behavior that is not occurring.
 - Use the issue templates to create the issue. They include step by step guidelines and have lists of things that should be included.
 
 ### Did you write a patch that fixes a bug or updates the documentation?
@@ -34,16 +34,17 @@ Please contribute using [GitHub Flow](https://guides.github.com/introduction/flo
 
 ### Did you fix whitespace, format code, or make a purely cosmetic patch?
 
-- Changes that are cosmetic in nature and do not add anything substantial to the stability, functionality, or testability of PyAvatar are still accepted! Just follow the same instructions as above.
+- Changes that are cosmetic in nature and do not add anything substantial to the stability, functionality, or testability of the project are still accepted! Just follow the same instructions as above.
 
 ### Do you intend to add a new feature or change an existing one?
 
-- **Ensure the feature was not already introduced** by searching on GitHub under Issues. Look for those under the _enhancement_ tag.
+- **Ensure the feature was not already introduced** by searching on GitHub under Issues. Look for those under the enhancement tag.
 - If you're unable to find an open issue addressing the new feature, open a new one!
 
 ### Do you have questions about the source code?
 
-- Ask any question about how to use any Dog Face Devleopment Co. project on our [Discord]()!
+- Ask any question about how to use this project on our [Discord]().
+- If it does not get answered, open an Issue!  
 
 ## Coding Conventions
 
@@ -55,4 +56,4 @@ Start reading our code and you'll get the hang of it.
 
 ## Attribution
 
-This document is adapted from the Contributing documents of [Rails](https://github.com/rails/rails/blob/main/CONTRIBUTING.md), the [GitHub Docs](https://github.com/github/docs/blob/main/CONTRIBUTING.md), [Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md), and [OpenGovernment](https://github.com/opengovernment/opengovernment/blob/master/CONTRIBUTING.md?plain=1).  
+This document is adapted from the `CONTRIBUTING` documents of [Rails](https://github.com/rails/rails/blob/main/CONTRIBUTING.md), the [GitHub Docs](https://github.com/github/docs/blob/main/CONTRIBUTING.md), [Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md), and [OpenGovernment](https://github.com/opengovernment/opengovernment/blob/master/CONTRIBUTING.md?plain=1).  
