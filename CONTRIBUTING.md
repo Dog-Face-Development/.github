@@ -53,7 +53,7 @@ Please contribute using [GitHub Flow](https://guides.github.com/introduction/flo
 
 ### Do you have questions about the source code?
 
-- Ask any question about how to use PyWorkout on our [Discord](%DISCORD LINK%).
+- Ask any question about how to use %PROGRAM NAME% on our [Discord](%DISCORD LINK%).
 - If it does not get answered, open an [issue](%NEW GITHUB ISSUE LINK%).  
 
 ## Coding Conventions
