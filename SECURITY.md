@@ -1,12 +1,12 @@
 # Security Policy
 
-The security of our software products and services is serious, which includes all source code repositories managed through the GitHub organization [Dog Face Development Co.](https://github.com/Dog-Face-Development/).
+The security of our software products and services is serious, which includes all source code repositories managed by [Dog Face Development Company](https://github.com/orgs/Dog-Face-Development).
 
 If you believe you have found a security vulnerability in any repository, please report it to us as described below in [Reporting a Vulnerability](#reporting-a-vulnerability).
 
 ## Supported Versions
 
-The following versions of PyWorkout are currently supported:
+The following versions of this project are currently supported:
 
 | Version  | Supported          |
 | -------- | ------------------ |
@@ -25,4 +25,4 @@ Please open an issue to report a security vulnerability. Please include the requ
 * Impact of the issue, including how an attacker might exploit the issue
 * This information will help us triage your report more quickly.
 
-Contributions should follow the [`CODE_OF_CONDUCT`](CODE_OF_CONDUCT.md) and [`CONTRIBUTING`](CONTRIBUTING.md) documents. 
+Contributions should follow the [`CODE_OF_CONDUCT`](CODE_OF_CONDUCT.md) and [`CONTRIBUTING`](CONTRIBUTING.md) documents.
