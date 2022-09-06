@@ -2,7 +2,7 @@
 
 Last updated: September 2, 2022.
 
-Please read these terms and conditions carefully before using %PROGRAM NAME%. **This document comes into effect when you contribute to the repository and/or download the software containing this document.**
+Please read these terms and conditions carefully before using this project. **This document comes into effect when you contribute to the repository and/or download the software containing this document.**
 
 ## Interpretation and Definitions
 
