@@ -1,6 +1,6 @@
 <h1 align="center">Hi!/¡Hola!/Hoi!/Salut! 👋, We are <a href="https://github.com/Dog-Face-Development">Dog Face Development Co.</a></h1>
 
-We have been building open source programs, websites and other projects on Github since **April 25th, 2016**. That's when we made our first commit. Since then we pushed **over 640 commits**, opened **over 330 issues**, submitted **roughly 70 pull requests** across **17 repositories**!
+We have been building open source programs, websites and other projects on Github since **April 25th, 2016**. That's when we made our first commit. Since then we pushed **over 900 commits**, opened **over 300 issues**, and submitted **roughly 150 pull requests**, all across **16 repositories**!
 
 ### Contributing to our projects!
 
