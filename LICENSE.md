@@ -82,7 +82,7 @@ non-sublicensable, non-exclusive, irrevocable license to
 exercise the Licensed Rights in the Licensed Material to:
 
     a. reproduce and Share the Licensed Material, in whole or in part; and
-    
+
     b. produce, reproduce, and Share Adapted Material.
 
  2. Exceptions and Limitations. For the avoidance of doubt, where

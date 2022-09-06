@@ -43,7 +43,7 @@ Please contribute using [GitHub Flow](https://guides.github.com/introduction/flo
 
 ### Did you fix whitespace, format code, or make a purely cosmetic patch?
 
-- Changes that are cosmetic in nature and do not add anything substantial to the stability, functionality, or testability of %PROJECT NAME% are still accepted! Just follow the same instructions as above.
+- Changes that are cosmetic in nature and do not add anything substantial to the stability, functionality, or testability of this project are still accepted! Just follow the same instructions as above.
 - However, do ensure that any cosmetic changes follow the Dog Face Development Co. Style Guides, found [below](#style).
 
 ### Do you intend to add a new feature or change an existing one?
