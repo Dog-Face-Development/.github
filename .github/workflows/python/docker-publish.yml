@@ -1,14 +1,14 @@
-name: docker-publish
+name: Docker Build
 
 on:
   schedule:
     - cron: '32 11 * * *'
   push:
-    branches: [ "main" ]
+    branches: [ "master" ]
     # Publish semver tags as releases.
     tags: [ 'v*.*.*' ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "master" ]
 
 env:
   # Use docker.io for Docker Hub if empty
@@ -54,6 +54,7 @@ jobs:
           registry: ${{ env.REGISTRY }}
           username: ${{ github.actor }}
           password: ${{ secrets.GITHUB_TOKEN }}
+          logout: false
 
       # Extract metadata (tags, labels) for Docker
       # https://github.com/docker/metadata-action
