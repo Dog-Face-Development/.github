@@ -22,7 +22,7 @@ jobs:
           path-to-document: 'https://github.com/Dog-Face-Development/.github/tree/main/docs/legal' # e.g. a CLA or a DCO document
           # branch should not be protected
           branch: 'main'
-          allowlist: willtheorangeguy, bot*
+          allowlist: willtheorangeguy, bot*, imgbot
           remote-organization-name: Dog-Face-Development
           remote-repository-name: cla-signatures
           create-file-commit-message: 'Create CLA signatures file'
